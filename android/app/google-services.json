@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461058516917",
+    "firebase_url": "https://test-push-572e5.firebaseio.com",
+    "project_id": "test-push-572e5",
+    "storage_bucket": "test-push-572e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461058516917:android:01577c65c80b6157461bfc",
+        "android_client_info": {
+          "package_name": "com.rnfproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461058516917-irk7omiv8693c3pbc83ogedllaavhjop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakCEmyh7KqJCdAiwHkWh_WdukcTWI2as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461058516917-irk7omiv8693c3pbc83ogedllaavhjop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
